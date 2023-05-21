@@ -1,5 +1,5 @@
 # Toastr Issue Tracker
-This repository was made to help us track and fix issues and bugs in Toastr products./n
+This repository was made to help us track and fix issues and bugs in Toastr products.
 
 ## Process
 1. Please click on "Issues" above and then first check to see if there are any open issues that are like the one you encountered. If so, please comment on this open issue.
